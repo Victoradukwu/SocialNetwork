@@ -102,3 +102,5 @@ uploads/
 
 process.yml
 
+src/db.sqlite3
+
